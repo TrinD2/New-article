@@ -1,2 +1,2 @@
-# New-article
-Hola mundo
+# Oraculos
+Que es un oraculo

@@ -10,3 +10,5 @@ Verificación de Información: Un oráculo puede ser un proceso automatizado o u
 Tipos de Oráculos: Hay diferentes tipos de oráculos, incluidos los oráculos centralizados, descentralizados y descentralizados distribuidos (Distributed Oracle Networks, DONs). Los oráculos centralizados son controlados por una sola entidad, lo que puede plantear problemas de confianza. Los oráculos descentralizados, por otro lado, operan en redes blockchain y pueden estar respaldados por múltiples fuentes de datos o nodos de red.
 
 Aplicaciones: Los oráculos blockchain tienen una amplia gama de aplicaciones, que van desde finanzas descentralizadas (DeFi) hasta seguros, juegos y suministro de datos para contratos inteligentes en diversos sectores.
+
+Redstone Oracle

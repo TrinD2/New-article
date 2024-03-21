@@ -12,3 +12,5 @@ Tipos de Oráculos: Hay diferentes tipos de oráculos, incluidos los oráculos c
 Aplicaciones: Los oráculos blockchain tienen una amplia gama de aplicaciones, que van desde finanzas descentralizadas (DeFi) hasta seguros, juegos y suministro de datos para contratos inteligentes en diversos sectores.
 
 Redstone Oracle
+Que es redtone orcale
+Como beneficia

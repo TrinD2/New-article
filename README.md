@@ -14,3 +14,4 @@ Aplicaciones: Los oráculos blockchain tienen una amplia gama de aplicaciones, q
 Redstone Oracle
 Que es redtone orcale
 Como beneficia
+Por que usar redstone oracle

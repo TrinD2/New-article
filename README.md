@@ -16,3 +16,4 @@ Que es redtone orcale
 Como beneficia
 Por que usar redstone oracle
 que hacer
+debemos traducir en ingles

@@ -17,3 +17,5 @@ Como beneficia
 Por que usar redstone oracle
 que hacer
 debemos traducir en ingles
+
+Como implementar

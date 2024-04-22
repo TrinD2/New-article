@@ -19,3 +19,8 @@ que hacer
 debemos traducir en ingles
 
 Como implementar
+
+Modular Oracles
+Tailored To Your dApp
+RedStone delivers feeds not available elsewhere.
+Deployable everywhere. Supporting multichain DeFi.
